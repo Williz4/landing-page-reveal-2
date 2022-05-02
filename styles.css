@@ -133,7 +133,7 @@ p {
 	font-size: 300px;
 }
 
-.title {
+.title.letter {
 	display: inline-block;
 	line-height: 1em;
 }
